@@ -1,0 +1,37 @@
+body{    
+    background: linear-gradient(peachpuff,lightblue);
+}
+h1{
+    text-align: center;
+}
+.form{
+    text-align: center;
+    margin: 0%;
+    padding: 50px;
+
+}
+.form label{
+    font-size: x-large;
+}
+input{
+    width:30%;
+    border-radius: 5px;
+    padding: 10px 20px;
+    border: 3px solid grey;
+}
+select{
+    width: 30%;
+    padding: 10px 20px;
+    border: gray;
+    border: 3px solid grey;
+    border-radius: 5px;
+}
+button{
+    font-size: large;
+   width: 10%;
+   height: 30px;
+   border-radius: 10px;
+}
+h4{
+    font-size: x-large;
+}

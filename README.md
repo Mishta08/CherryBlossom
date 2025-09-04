@@ -34,7 +34,7 @@ The website provides essential festival details and allows users to book tickets
 
 ## 🌐 Live Demo
 
-[Click here to view the project](https://yourusername.github.io/cherry-blossom-festival/)  
+[Click here to view the project](https://Mishta08.github.io/cherry-blossom-festival/)  
 
 ---
 

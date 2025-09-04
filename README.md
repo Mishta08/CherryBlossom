@@ -34,7 +34,7 @@ The website provides essential festival details and allows users to book tickets
 
 ## 🌐 Live Demo
 
-[Click here to view the project](https://cherrybloss.netlify.app/)
+[Click here to view the project](https://mishta08.github.io/CherryBlossom/)
 
 ---
 

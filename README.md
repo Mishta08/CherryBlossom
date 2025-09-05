@@ -1,6 +1,6 @@
 # 🌸 Cherry Blossom Festival – Shillong
 
-A simple and informative website dedicated to the annual Cherry Blossom Festival held in Shillong, Meghalaya.  
+A simple and informative demo website dedicated to the annual Cherry Blossom Festival held in Shillong, Meghalaya.  
 The website provides essential festival details and allows users to book tickets online.
 
 ---
